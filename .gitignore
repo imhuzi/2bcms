@@ -1,0 +1,14 @@
+target
+.idea
+*.class
+*.iml
+*.class
+doc
+#src/main/webapp/src
+src/main/webapp/node_modules
+src/main/webapp/src/components
+
+# Package Files #
+*.jar
+*.war
+*.ear
